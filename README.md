@@ -1,2 +1,2 @@
 # luhn-algoriithm-implementation
-how luhn algorithms works
+how luhn algorithm works 
